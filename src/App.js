@@ -1,6 +1,6 @@
-import logo from './logo.svg';
+import logo from './DM Signage.png';
 import './App.css';
-import Dashboard from './Dashboard.js';
+import Dashboard from './DM Signage (1).png';
 
 function App() {
   return (
